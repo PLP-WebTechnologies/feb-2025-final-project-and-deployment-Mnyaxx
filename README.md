@@ -1,25 +1,36 @@
 # Final Project and Deployment
 
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+# 🌐 Blog Website
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+A modern, responsive blog website built with React, TypeScript, and Tailwind CSS. This is a multi-page site featuring blog posts, an about page, and contact form with full interactivity using JavaScript and deployment via Netlify.
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+## 📋 Features
 
-## Tasks
+- Responsive layout
+- Modern UI using Tailwind CSS
+- Multiple pages (Home, Blog, About, Contact)
+- Dynamic blog content with interactivity
+- Dark mode toggle
+- Navigation menu
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
+## 🚀 Live Demo
 
-Good luck and happy coding! 🚀💻
+🔗 [Live Website on Netlify](https://your-deployment-link.com)
+
+## 💻 Local Setup
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js
+- npm (or bun/yarn)
+- Git
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/blog-website.git
+   cd blog-website
